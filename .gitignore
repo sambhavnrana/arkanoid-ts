@@ -1,0 +1,19 @@
+# Cache and temporary files
+/.cache/
+/.vscode/
+
+# Distribution folder
+/dist/
+
+# Node modules
+/node_modules/
+
+# Other files
+*.log
+*.tmp
+*.tmp.*
+*~
+*.swp
+.DS_Store
+Thumbs.db
+coverage/
